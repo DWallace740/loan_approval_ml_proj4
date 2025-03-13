@@ -17,6 +17,15 @@ This project aims to predict loan approval status based on applicant financial d
 - Jupyter Notebook for development
 
 ## Repository Structure
+loan-approval-ml/ │── .gitignore # Git ignore file to exclude unnecessary files
+│── Data_cleanup.ipynb # Data preprocessing and cleaning notebook
+│── LoanApproval_Model.ipynb # Machine learning model implementation
+│── LoanApproval_ML.h5 # Saved deep learning model
+│── Model_Iteration.md # Documentation of model improvements
+│── README.md # Project documentation
+│── loan_dataset.csv # Original dataset
+│── loan_dataset.db # SQLite database storing dataset
+│── requirements.txt # Dependencies list
 
 ## Data Processing
 - The dataset was loaded and stored in an SQLite database for structured data retrieval.
