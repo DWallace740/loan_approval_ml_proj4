@@ -77,6 +77,8 @@ loan-approval-ml/ │── .gitignore # Git ignore file to exclude unnecessary 
 jupyter notebook LoanApproval_Model.ipynb
 
 ## Resources and Support
+- ChatGPT (AI Assistant): For guidance on code logic, debugging, structuring the scripts and formatting my Readme file.
+- Xpert Learning AI Chat Assistant: For trouble shooting and code variations
 - Scikit-Learn Documentation: https://scikit-learn.org/
 - TensorFlow/Keras: https://www.tensorflow.org/
 - SQLite Documentation: https://www.sqlite.org/docs.html
