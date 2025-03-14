@@ -18,8 +18,7 @@ This project aims to predict loan approval status based on applicant financial d
 
 ## Repository Structure
 loan-approval-ml/ │── .gitignore # Git ignore file to exclude unnecessary files
-│── Data_cleanup.ipynb # Data preprocessing and cleaning notebook
-│── LoanApproval_Model.ipynb # Machine learning model implementation
+│── LoanApproval_Model.ipynb # Machine learning model implementation and Data preprocessing and cleaning notebook
 │── LoanApproval_ML.h5 # Saved deep learning model
 │── Model_Iteration.md # Documentation of model improvements
 │── README.md # Project documentation
